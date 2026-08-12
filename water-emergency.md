@@ -13,7 +13,7 @@ Water incidents are the most time-sensitive issues in a condominium. Fast action
 | Situation | Who to call |
 |---|---|
 | Life safety, fire, or active fire sprinkler discharge | **911** first, then management |
-| Water main or potable (drinking) water leak | **Irvine Ranch Water District (IRWD) 24-hour line: [confirm number]** |
+| Water main or potable (drinking) water leak | **Irvine Ranch Water District (IRWD) 24-hour line: (949) 453-5300** |
 | Tribeca landscape or irrigation sprinkler leak | **Earthco 24-hour line: (949) 204-6085** |
 | Central Park West (master association) irrigation leak | **Contact Central Park West (master association): [confirm contact]** |
 | Report any water incident to management | **Management 24-hour line: [confirm number]** |
@@ -43,7 +43,7 @@ Do not attempt to shut off or manipulate a fire sprinkler head yourself.
 
 Water outside a Unit is handled differently depending on the source. Identify the exact location first, then use this guide.
 
-1. **Water main or potable water leak** (a drinking-water line, a meter, or a street main): this is the water district. Call the **Irvine Ranch Water District (IRWD) 24-hour line: [confirm number]**.
+1. **Water main or potable water leak** (a drinking-water line, a meter, or a street main): this is the water district. Call the **Irvine Ranch Water District (IRWD) 24-hour line: (949) 453-5300**.
 2. **Landscape or irrigation sprinkler leak** (a sprinkler head, drip line, or valve in a planter, lawn, or common area): first confirm whose line it is.
    - If it is a **Tribeca** irrigation line, call **Earthco 24-hour line: (949) 204-6085**. Be specific about the location so the right crew is dispatched.
    - If it is a **Central Park West (master association)** irrigation line and not a Tribeca line, contact **Central Park West (the master association): [confirm contact]**, not Earthco.
