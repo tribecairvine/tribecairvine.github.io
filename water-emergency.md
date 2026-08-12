@@ -15,7 +15,7 @@ Water incidents are the most time-sensitive issues in a condominium. Fast action
 | Life safety, fire, or active fire sprinkler discharge | **911** first, then management |
 | Water main or potable (drinking) water leak | **Irvine Ranch Water District (IRWD) 24-hour line: (949) 453-5300** |
 | Tribeca landscape or irrigation sprinkler leak | **Earthco 24-hour line: (949) 204-6085** |
-| Central Park West (master association) irrigation leak | **Contact Central Park West (master association): [confirm contact]** |
+| Central Park West (master association) irrigation leak | **Contact Central Park West (master association): centralparkwest.ca@fsresidential.com** |
 | Report any water incident to management | **Management (Progressive Association Management): (714) 528-3100** |
 | Loose dog, injured bird or animal, or ducklings trapped in a storm drain | **Irvine Animal Control (Irvine Police non-emergency line): (949) 724-7200** |
 
@@ -46,7 +46,7 @@ Water outside a Unit is handled differently depending on the source. Identify th
 1. **Water main or potable water leak** (a drinking-water line, a meter, or a street main): this is the water district. Call the **Irvine Ranch Water District (IRWD) 24-hour line: (949) 453-5300**.
 2. **Landscape or irrigation sprinkler leak** (a sprinkler head, drip line, or valve in a planter, lawn, or common area): first confirm whose line it is.
    - If it is a **Tribeca** irrigation line, call **Earthco 24-hour line: (949) 204-6085**. Be specific about the location so the right crew is dispatched.
-   - If it is a **Central Park West (master association)** irrigation line and not a Tribeca line, contact **Central Park West (the master association): [confirm contact]**, not Earthco.
+   - If it is a **Central Park West (master association)** irrigation line and not a Tribeca line, contact **Central Park West (the master association): centralparkwest.ca@fsresidential.com**, not Earthco.
 3. **If you are unsure of the source or location,** report it to management right away rather than guessing.
 
 Being specific about the location matters. Tribeca and Central Park West maintain different irrigation lines, and the wrong crew cannot fix the wrong system.
