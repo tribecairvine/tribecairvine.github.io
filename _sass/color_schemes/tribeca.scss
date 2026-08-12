@@ -1,0 +1,21 @@
+// Tribeca at Central Park West brand color scheme
+// Derived from source-pdfs/tribecalogo.png:
+//   taupe  #6A655D  (wordmark text)
+//   sage   #BFC879  (accent rule under the wordmark)
+// Loaded after the default light scheme, so these override selectively.
+
+$taupe:        #6a655d; // brand text
+$taupe-dark:   #4a463f; // headings, stronger contrast
+$sage:         #bfc879; // brand accent, used as fill/border only (too light for text)
+$olive-link:   #77813a; // darkened sage, readable link/interaction color on white (AA)
+
+$link-color:                  $olive-link;
+$btn-primary-color:           $taupe;
+$base-button-color:           #f4f3ee;
+$body-heading-color:          $taupe-dark;
+$body-text-color:             #37352f;
+$nav-child-link-color:        $taupe;
+$sidebar-color:               #f8f7f3; // warm off-white to match logo neutrals
+$border-color:                #e4e2da;
+$search-result-preview-color: #8b887f;
+$code-background-color:        #f5f4ef;

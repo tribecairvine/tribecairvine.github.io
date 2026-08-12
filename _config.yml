@@ -2,6 +2,7 @@ title: Tribeca at Central Park West
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
-color_scheme: light
+color_scheme: tribeca
 search_enabled: true
 heading_anchors: true
+logo: "/assets/images/tribecalogo.png"

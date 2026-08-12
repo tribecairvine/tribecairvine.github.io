@@ -1,0 +1,62 @@
+---
+title: Food Scrap (Organics) Program
+parent: Resident Guides
+nav_order: 9
+---
+
+# Food Scrap (Organics) Program
+
+California law requires every household, including condominiums, to separate organic waste such as food scraps from regular trash. Because our community has no yards and limited garage space, the Board meets this requirement with a shared food-waste system: three communal food-scrap carts placed throughout the community, instead of an individual organics cart in your garage.
+
+Source: Tribeca at Central Park West Board of Directors resident notice. This is an informational summary. The Association budget and official notices are available in the homeowner portal.
+
+## Where are the carts?
+
+Three shared food-waste carts are placed throughout the community. Cart locations are still being finalized while the program rolls out. See [Community Maps](maps.html): the green numbered circles mark the three food-compost carts.
+
+## What can I put in the carts?
+
+Food waste only. Place scraps in a clear or translucent bag, not black or opaque, so the hauler can identify the contents. Bags do not need to be compostable. You may keep a small indoor kitchen bin and empty it into the communal carts.
+
+**Accepted (always compost):**
+
+- Fruits and vegetables
+- Meat (cooked or raw), bones, fish, shellfish
+- Bread, pasta, beans, grains
+- Eggs, yogurt, cheese, sour cream
+- Food-soiled paper, paper towels, napkins, coffee filters
+
+**Keep out (contamination):**
+
+- No yard waste
+- No foil containers
+- No plastic serveware or cutlery (plates, forks, knives, spoons)
+- No plastic bottles or containers
+- No foam cups or containers
+- No hazardous waste or batteries
+
+The accepted and excluded items follow the City of Irvine organics recycling guidelines.
+
+## What you need to do
+
+Bring your food scraps to the nearest communal cart. Your individual green organics cart has been removed as part of the transition, so there is no cart to manage in your garage.
+
+## How often are the carts serviced?
+
+The hauler collects from the carts weekly, on Fridays. Because the carts stay in place, you may drop off food waste on any day that is convenient for you.
+
+## How does this affect my costs?
+
+The residential cart rates are increasing this quarter. Moving organics to a shared Association account gives each home a credit for removal of its individual organics cart, which helps offset the increase and results in a net benefit to the community. Exact figures are reflected in the Association budget in the homeowner portal.
+
+## Odors and pests
+
+The carts are for food waste only and are serviced weekly. Bagging scraps in a sealed clear or translucent bag and placing them inside the carts keeps the stations clean. The Association's pest-control service is on a monthly cycle addressing rodent and insect activity community-wide.
+
+## Board review
+
+The program was approved by the Board and will be placed on the agenda for formal ratification at the next open Board meeting. Notice and agenda are posted in the homeowner portal, and residents are welcome to attend.
+
+## Questions
+
+Contact management through your homeowner portal.

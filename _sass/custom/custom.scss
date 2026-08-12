@@ -1,0 +1,74 @@
+// Sage accent details that echo the logo's underline rule.
+$brand-sage:  #bfc879;
+$brand-taupe: #6a655d;
+
+// Logo sizing in the sidebar header (logo is 800x307, ~2.6:1)
+.site-logo {
+  height: 1.8rem;
+  background-size: contain;
+  background-position: left center;
+}
+
+// Sage rule under the site title, mirroring the wordmark
+.site-header {
+  border-bottom: 3px solid $brand-sage;
+}
+
+// Page headings get a light sage underline for brand cohesion
+.main-content h1,
+.main-content h2 {
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid rgba(191, 200, 121, 0.45);
+}
+
+// Active nav item marked with a sage bar instead of the default gray fill
+.nav-list .nav-list-item .nav-list-link.active {
+  color: $brand-taupe;
+  font-weight: 600;
+  box-shadow: inset 3px 0 0 $brand-sage;
+}
+
+// --- Mobile friendliness ---
+// Wide tables (Exhibit C matrix, responsibility tables, schedule) scroll instead of overflowing.
+@media (max-width: 50rem) {
+  .main-content table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .main-content pre { overflow-x: auto; }
+}
+// Images and the embedded community map scale to the screen.
+.main-content img,
+.main-content svg { max-width: 100%; height: auto; }
+
+// ===== Prototype visual: launchpad cards + Owner/Association panels =====
+.main-content .tb-lede{color:#565247;font-size:1.05rem;margin:.2em 0 0}
+.main-content .tb-banner{background:#f0f1e3;border:1px solid #bfc879;border-radius:8px;padding:11px 15px;margin:16px 0 8px;font-size:.88rem;color:#565247}
+.main-content .tb-banner strong{color:#4a463f}
+.main-content .tb-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin:14px 0 6px}
+.main-content .tb-card{display:block;background:#fff;border:1px solid #e4e2da;border-radius:10px;padding:14px 15px;text-decoration:none;color:#37352f;transition:transform .12s,box-shadow .12s,border-color .12s}
+.main-content .tb-card:hover{border-color:#bfc879;box-shadow:0 3px 12px rgba(120,120,90,.14);transform:translateY(-1px)}
+.main-content .tb-ci{display:block;color:#5e6b2c}
+.main-content .tb-ci svg{width:26px;height:26px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+.main-content .tb-ct{display:block;font-weight:700;color:#4a463f;margin:9px 0 3px;font-size:.95rem}
+.main-content .tb-cd{display:block;font-size:.8rem;color:#6f6b62;line-height:1.45}
+.main-content .tb-callout{background:#f0f1e3;border:1px solid #bfc879;border-radius:8px;padding:11px 15px;margin:16px 0;font-size:.9rem;color:#565247}
+.main-content .tb-callout strong{color:#4a463f}
+.main-content .tb-flow{max-width:660px;width:100%;height:auto;display:block;margin:16px auto}
+.main-content .tb-legend{display:flex;gap:8px 14px;align-items:center;flex-wrap:wrap;margin:14px 0 6px;font-size:.85rem;color:#565247}
+.main-content .tb-legend .tb-sp{width:8px;display:inline-block}
+.main-content .tb-pill,.main-content .tb-wtag{display:inline-block;font-weight:700;font-size:.66rem;letter-spacing:.04em;text-transform:uppercase;border-radius:20px;padding:3px 12px;color:#fff}
+.main-content .tb-pill.tb-owner,.main-content .tb-wtag.tb-owner{background:#6a655d}
+.main-content .tb-pill.tb-assoc,.main-content .tb-wtag.tb-assoc{background:#5e6b2c}
+.main-content .tb-wcard{border:1px solid #e4e2da;border-radius:12px;margin:14px 0;overflow:hidden}
+.main-content .tb-whead{font-weight:700;color:#4a463f;padding:11px 16px;border-bottom:2px solid #bfc879;background:#faf9f6}
+.main-content .tb-wcols{display:flex;flex-wrap:wrap}
+.main-content .tb-wcol{flex:1 1 250px;padding:14px 16px}
+.main-content .tb-wcol.tb-owner{background:#f5f1ec}
+.main-content .tb-wcol.tb-assoc{background:#eef1de;border-left:1px solid #e4e2da}
+.main-content .tb-wcol p{margin:8px 0 0;font-size:.82rem;color:#37352f;line-height:1.55}
+.main-content .tb-wsrc{font-size:.72rem;color:#8b887f;padding:9px 16px;border-top:1px solid #e4e2da;background:#fff}
+@media(max-width:640px){.main-content .tb-wcol.tb-assoc{border-left:none;border-top:1px solid #e4e2da}}

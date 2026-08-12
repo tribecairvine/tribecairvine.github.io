@@ -1,0 +1,17 @@
+
+# Local-only working files (never publish)
+CLAUDE.md
+DISCLAIMER-DRAFT.md
+test-parking-2.14.md
+
+# macOS
+.DS_Store
+
+# Jekyll build
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Staging drop zone — never published
+inbox/
