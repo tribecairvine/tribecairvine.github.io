@@ -41,6 +41,8 @@ You may keep a small indoor kitchen bin and empty it into the communal carts.
 - Eggs, yogurt, cheese, sour cream
 - Food-soiled paper, paper towels, napkins, coffee filters
 
+<figure style="margin:12px 0"><img src="/assets/images/wm-organics-yes.jpg" alt="Waste Management Always Compost list" style="max-width:100%;border-radius:8px;border:1px solid #e4e2da"></figure>
+
 **Keep out (contamination):**
 
 - No yard waste
@@ -49,6 +51,8 @@ You may keep a small indoor kitchen bin and empty it into the communal carts.
 - No plastic bottles or containers
 - No foam cups or containers
 - No hazardous waste or batteries
+
+<figure style="margin:12px 0"><img src="/assets/images/wm-organics-no.jpg" alt="Waste Management do-not-include-in-organics list" style="max-width:100%;border-radius:8px;border:1px solid #e4e2da"></figure>
 
 The accepted and excluded items follow the City of Irvine organics recycling guidelines.
 
