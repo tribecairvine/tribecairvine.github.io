@@ -17,5 +17,5 @@ Share a suggestion, question, or concern with the Board. Name and email are opti
   <label>Your email (optional, if you would like a reply)
     <input type="email" name="email" autocomplete="off">
   </label>
-  <button type="submit">Send to the Board</button>
+  <button type="submit">Send</button>
 </form>
