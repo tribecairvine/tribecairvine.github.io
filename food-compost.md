@@ -14,6 +14,11 @@ Source: Tribeca at Central Park West Board of Directors resident notice. This is
 
 Three shared food-waste carts are placed throughout the community. Cart locations are still being finalized while the program rolls out. See [Community Maps](maps.html): the green numbered circles mark the three food-compost carts.
 
+<figure style="margin:14px 0;max-width:480px">
+  <img src="/assets/images/food-compost-bin.jpg" alt="A shared food-waste cart with a brown lid" style="max-width:100%;border-radius:8px;border:1px solid #e4e2da">
+  <figcaption style="font-size:13px;color:#6f6b62;margin-top:4px">Look for a cart with a brown lid.</figcaption>
+</figure>
+
 ## What can I put in the carts?
 
 Food waste only. See the accepted and keep-out lists below.
