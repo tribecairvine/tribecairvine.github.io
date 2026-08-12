@@ -17,7 +17,6 @@ This section reproduces the recorded document as searchable text. It is an unoff
 
 - [Article 1 — Definitions and Interpretation](ccrs-article-1.html)
 - [Article 2 — Condominium and Use Restrictions](ccrs-article-2.html)
-- [Section 2.14 — Parking and Vehicular Restrictions](test-parking-2.14.html)
 - [Article 3 — Disclosures](ccrs-article-3.html)
 - [Article 4 — The Neighborhood Association](ccrs-article-4.html)
 - [Article 5 — Architectural Review Committee](ccrs-article-5.html)
