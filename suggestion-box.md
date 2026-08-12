@@ -5,7 +5,7 @@ nav_order: 9
 
 # Suggestion Box
 
-Share a suggestion, question, or concern with the Board. Name and email are optional. Leave them blank if you prefer, or add your email if you would like a reply.
+Share a suggestion, question, or concern with the Association. Name and email are optional. Leave them blank if you prefer, or add your email if you would like a reply.
 
 <form class="tb-form" action="https://formspree.io/f/xeajgbyn" method="POST">
   <label>Your suggestion, question, or concern
