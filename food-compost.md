@@ -68,6 +68,12 @@ The hauler collects from the carts weekly, on Fridays. Because the carts stay in
 
 The residential cart rates are increasing this quarter. Moving organics to a shared Association account gives each home a credit for removal of its individual organics cart, which helps offset the increase and results in a net benefit to the community. Exact figures are reflected in the Association budget in the homeowner portal.
 
+## For new residents
+
+Each home pays for its own trash service through Waste Management, and recycling is included. When you set up your Waste Management account, you only need **trash and recycling**.
+
+You do **not** need an individual organics, compost, or yard-waste cart. The community's food scraps are handled by the shared Association program, so an individual organics cart would be an unnecessary extra charge. If Waste Management offers to add one, decline it.
+
 ## Odors and pests
 
 The carts are for food waste only and are serviced weekly. Bagging scraps in a sealed clear or translucent bag and placing them inside the carts keeps the stations clean. The Association's pest-control service is on a monthly cycle addressing rodent and insect activity community-wide.
