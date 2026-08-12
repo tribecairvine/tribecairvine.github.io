@@ -68,5 +68,3 @@ The matrix below is reproduced as a single table, matching Exhibit C. Bold rows 
 2. This schedule not intended to be an exhaustive list of Neighborhood Association maintenance obligations, it is intended to supplement relevant provisions of the Neighborhood Declaration and Notice of Addition and Supplemental Neighborhood Declaration (as applicable).
 
 3. Each Owner is responsible for the maintenance, repair, and replacement of all elements of the Unit, except as otherwise set forth above or in the Governing Documents or Maintenance Guidelines. The Neighborhood Association is responsible for all of the maintenance, repair and replacement of the Neighborhood Association Property. Notwithstanding the foregoing, in the event of a casualty, the Neighborhood Association shall repair and replace all items covered by the Neighborhood Association's insurance.
-</content>
-</invoke>
