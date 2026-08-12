@@ -17,6 +17,7 @@ Water incidents are the most time-sensitive issues in a condominium. Fast action
 | Tribeca landscape or irrigation sprinkler leak | **Earthco 24-hour line: (949) 204-6085** |
 | Central Park West (master association) irrigation leak | **Contact Central Park West (master association): [confirm contact]** |
 | Report any water incident to management | **Management 24-hour line: [confirm number]** |
+| Loose dog, injured bird or animal, or ducklings trapped in a storm drain | **Irvine Animal Control (Irvine Police non-emergency line): (949) 724-7200** |
 
 Note the exact location before you call so the right crew is sent.
 

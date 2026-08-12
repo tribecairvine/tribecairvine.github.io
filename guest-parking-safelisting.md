@@ -52,4 +52,4 @@ Safelisting applies to the **Tribeca parking lot only** (at Tribeca and Bowery).
 ## If a vehicle is towed
 
 - The patrol company is a private patrol service, not the police. For an emergency or a threat, call **911**.
-- If a vehicle is towed, call the **Irvine Police Department non-emergency line at (949) 724-7000** to verify the tow. California law requires private-property tows to be reported to the police, who can identify the towing company.
+- If a vehicle is towed, call the **Irvine Police Department non-emergency line at (949) 724-7200** to verify the tow. California law requires private-property tows to be reported to the police, who can identify the towing company.
