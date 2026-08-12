@@ -16,7 +16,17 @@ Three shared food-waste carts are placed throughout the community. Cart location
 
 ## What can I put in the carts?
 
-Food waste only. Place scraps in a clear or translucent bag, not black or opaque, so the hauler can identify the contents. Bags do not need to be compostable. You may keep a small indoor kitchen bin and empty it into the communal carts.
+Food waste only. See the accepted and keep-out lists below.
+
+**Bag and tie your scraps.** Always place your food scraps in a bag and tie it closed before dropping it into the cart. Loose food waste sitting in the cart between the weekly Friday pickups is what draws flies and creates odor. A tied bag prevents both.
+
+Bag guidelines:
+
+- Use a **clear or translucent** bag, tied closed, so the hauler can see the contents.
+- **Any kitchen bag works. Plastic is fine, and compostable bags are not required** — Waste Management handles the bags at the facility.
+- **Do not use black or opaque bags.**
+
+You may keep a small indoor kitchen bin and empty it into the communal carts.
 
 **Accepted (always compost):**
 
