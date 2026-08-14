@@ -85,7 +85,7 @@ $brand-taupe: #6a655d;
 
 // ===== Redesign pass: thin type, hero, emergency strip, fab, footer links, dark mode =====
 // Hero (thin typography — weights match the theme)
-.main-content .tb-hero{background:linear-gradient(135deg,#f8f7f3 0%,#eef1de 100%);border:1px solid #e4e2da;border-radius:14px;padding:26px 28px;margin:8px 0 14px}
+.main-content .tb-hero{background:none;border:none;border-radius:0;padding:0;margin:4px 0 18px}
 .main-content .tb-hero h1{margin:0 0 4px;font-weight:500;border:none;padding:0}
 .main-content .tb-hero p{margin:0 0 14px;color:#565247}
 .main-content .tb-hbtns{display:flex;gap:10px;flex-wrap:wrap}
@@ -142,7 +142,7 @@ html.tb-dark .main-content .tb-card{background:#262522;border-color:#39372f;colo
 html.tb-dark .main-content .tb-card .tb-ct{color:#e8e4d8}
 html.tb-dark .main-content .tb-card .tb-cd{color:#a29d8e}
 html.tb-dark .main-content .tb-card.tb-hi{background:#2b2e1f;border-color:#5e6b2c}
-html.tb-dark .main-content .tb-hero{background:linear-gradient(135deg,#232220,#26281c);border-color:#39372f}
+html.tb-dark .main-content .tb-hero{background:none;border:none}
 html.tb-dark .main-content .tb-hero p{color:#b5b0a0}
 html.tb-dark .main-content .tb-hbtn.tb-alt{background:#262522;color:#e2dfd5 !important;border-color:#5e6b2c}
 html.tb-dark .main-content .tb-estrip{background:#262522;border-color:#5a4038}
