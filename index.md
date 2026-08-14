@@ -14,14 +14,6 @@ nav_order: 1
 
 <div class="tb-banner"><strong>Unofficial resource.</strong> This is a convenience copy, not an official record. The recorded governing documents control. See the <a href="disclaimer.html">Disclaimer</a>.</div>
 
-<h2 class="tb-sech"><svg viewBox="0 0 24 24"><path d="M12 3l2.2 5.4L20 9l-4.4 3.8L17 19l-5-3.2L7 19l1.4-6.2L4 9l5.8-.6z"/></svg><span>Start Here</span></h2>
-<div class="tb-grid">
-<a class="tb-card" href="who-is-responsible.html"><span class="tb-ci"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12" y2="17"/></svg></span><span class="tb-ct">Who Is Responsible?</span><span class="tb-cd">Owner vs Association, by component.</span></a>
-<a class="tb-card" href="water-emergency.html"><span class="tb-ci"><svg viewBox="0 0 24 24"><path d="M12 2.7l5.7 5.7a8 8 0 1 1-11.4 0z"/></svg></span><span class="tb-ct">Water In Your Unit</span><span class="tb-cd">Do these 5 things now, and the 24-hour rule.</span></a>
-<a class="tb-card" href="elevator-emergency.html"><span class="tb-ci"><svg viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="1.5"/><line x1="12" y1="3" x2="12" y2="21"/><path d="M8.5 9L10 7l1.5 2"/><path d="M13 15l1.5 2 1.5-2"/></svg></span><span class="tb-ct">Stuck In An Elevator</span><span class="tb-cd">Press the call button, stay inside.</span></a>
-<a class="tb-card tb-hi" href="suggestion-box.html"><span class="tb-ci"><svg viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg></span><span class="tb-ct">Suggestion Box</span><span class="tb-cd">Have an idea or feedback? Drop it here.</span></a>
-</div>
-
 <h2 class="tb-sech"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="4"/><path d="M9.5 16.5V7.5h3.2a2.6 2.6 0 0 1 0 5.2H9.5"/></svg><span>Parking &amp; Everyday Living</span></h2>
 <div class="tb-grid">
 <a class="tb-card" href="parking-rules.html"><span class="tb-ci"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="4"/><path d="M9.5 16.5V7.5h3.2a2.6 2.6 0 0 1 0 5.2H9.5"/></svg></span><span class="tb-ct">Parking &amp; Garage Rules</span><span class="tb-cd">Authorized vehicles, guest parking, towing.</span></a>
