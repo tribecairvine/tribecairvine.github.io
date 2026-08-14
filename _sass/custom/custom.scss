@@ -4,7 +4,7 @@ $brand-taupe: #6a655d;
 
 // Logo sizing in the sidebar header (logo is 800x307, ~2.6:1)
 .site-logo {
-  height: 1.8rem;
+  height: 2.6rem;
   background-size: contain;
   background-position: left center;
 }
@@ -81,3 +81,82 @@ $brand-taupe: #6a655d;
 .main-content .tb-form button{margin-top:16px;background:#77813a;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:.95rem;font-weight:600;cursor:pointer}
 .main-content .tb-form button:hover{background:#69732f}
 .main-content .tb-formnote{font-size:.78rem;color:#8b887f;margin-top:10px}
+
+
+// ===== Redesign pass: thin type, hero, emergency strip, fab, footer links, dark mode =====
+// Hero (thin typography — weights match the theme)
+.main-content .tb-hero{background:linear-gradient(135deg,#f8f7f3 0%,#eef1de 100%);border:1px solid #e4e2da;border-radius:14px;padding:26px 28px;margin:8px 0 14px}
+.main-content .tb-hero h1{margin:0 0 4px;font-weight:500;border:none;padding:0}
+.main-content .tb-hero p{margin:0 0 14px;color:#565247}
+.main-content .tb-hbtns{display:flex;gap:10px;flex-wrap:wrap}
+.main-content .tb-hbtn{display:inline-flex;align-items:center;gap:8px;background:#77813a;color:#fff !important;text-decoration:none;
+font-weight:400;border-radius:10px;padding:10px 18px;font-size:.95rem;transition:background .12s}
+.main-content .tb-hbtn:hover{background:#69732f;text-decoration:none}
+.main-content .tb-hbtn.tb-alt{background:#fff;color:#4a463f !important;border:1px solid #bfc879}
+.main-content .tb-hbtn.tb-alt:hover{background:#f4f6e8}
+.main-content .tb-hbtn svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+// Emergency strip (outline icons, no emoji)
+.main-content .tb-estrip{display:flex;border:1px solid #d9c1b8;border-radius:10px;overflow:hidden;margin:0 0 10px;background:#fff}
+.main-content .tb-estrip a{flex:1;display:flex;gap:10px;align-items:center;padding:10px 14px;text-decoration:none;color:#4a463f;border-right:1px solid #eee0dc;font-size:.85rem;line-height:1.35}
+.main-content .tb-estrip a:last-child{border-right:none}
+.main-content .tb-estrip a:hover{background:#faf6f4}
+.main-content .tb-estrip svg{width:20px;height:20px;flex:none;fill:none;stroke:#a3402e;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.main-content .tb-estrip b{display:block;color:#a3402e;font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.03em}
+@media(max-width:640px){.main-content .tb-estrip{flex-direction:column}.main-content .tb-estrip a{border-right:none;border-bottom:1px solid #eee0dc}}
+// Section headers with outline icons (thin)
+.main-content .tb-sech{display:flex;align-items:center;gap:9px;font-size:1.1rem;font-weight:500;color:#4a463f;margin:1.7em 0 .6em;padding-bottom:.25em;border-bottom:2px solid rgba(191,200,121,.45)}
+.main-content .tb-sech svg{width:19px;height:19px;fill:none;stroke:#5e6b2c;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+// Cards: thin titles, highlighted suggestion card, mobile 2-across
+.main-content .tb-ct{font-weight:600}
+.main-content .tb-card.tb-hi{background:#eef1de;border-color:#bfc879}
+@media(max-width:640px){.main-content .tb-grid{grid-template-columns:repeat(2,1fr)}}
+// Clear link affordance in prose
+.main-content p a:not(.tb-card):not(.tb-hbtn), .main-content li a, .main-content td a{text-decoration:underline;text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid #77813a;outline-offset:2px}
+// Floating suggestions button (thin weight)
+.tb-fab{position:fixed;right:20px;bottom:20px;z-index:60;display:flex;align-items:center;gap:8px;background:#77813a;color:#fff;
+border-radius:28px;padding:11px 18px;font-weight:400;font-size:.92rem;text-decoration:none;box-shadow:0 6px 18px rgba(94,107,44,.35)}
+.tb-fab:hover{background:#69732f;color:#fff;text-decoration:none}
+.tb-fab svg{width:17px;height:17px;fill:none;stroke:#fff;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+// Footer quick links
+.tb-foot{border-top:1px solid #e4e2da;margin-top:34px;padding:14px 0 4px;display:flex;gap:8px 18px;flex-wrap:wrap;justify-content:space-between;font-size:.8rem;color:#8b887f}
+.tb-foot a{color:#77813a;text-decoration:underline;text-underline-offset:2px;margin-right:12px}
+// Sidebar suggestion link as a quiet pill
+.nav-list .nav-list-link[href*="suggestion-box"]{color:#5e6b2c;font-weight:600}
+// Theme toggle at the very top
+.tb-toggle{position:fixed;top:10px;right:14px;z-index:70;width:34px;height:34px;border-radius:50%;border:1px solid #d9d4c8;background:#fff;
+display:flex;align-items:center;justify-content:center;cursor:pointer;color:#6a655d;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.tb-toggle svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+// ===== Dark mode (simple overrides, toggled by html.tb-dark) =====
+html.tb-dark{background:#1d1c19}
+html.tb-dark body{background:#1d1c19;color:#e2dfd5}
+html.tb-dark .side-bar{background:#232220;border-color:#39372f}
+html.tb-dark .main-content, html.tb-dark .main{background:#1d1c19;color:#e2dfd5}
+html.tb-dark .main-content h1,html.tb-dark .main-content h2,html.tb-dark .main-content h3,html.tb-dark .main-content h4,html.tb-dark .tb-sech{color:#e8e4d8}
+html.tb-dark .main-content a{color:#b7c977}
+html.tb-dark .site-header,html.tb-dark .main-header{background:#232220;border-color:#39372f}
+html.tb-dark .search-input,html.tb-dark .search{background:#232220;color:#e2dfd5}
+html.tb-dark .nav-list .nav-list-link{color:#c9c4b4}
+html.tb-dark .nav-list .nav-list-link.active{background:#2c2b26;color:#e8e4d8}
+html.tb-dark .main-content .tb-card{background:#262522;border-color:#39372f;color:#e2dfd5}
+html.tb-dark .main-content .tb-card .tb-ct{color:#e8e4d8}
+html.tb-dark .main-content .tb-card .tb-cd{color:#a29d8e}
+html.tb-dark .main-content .tb-card.tb-hi{background:#2b2e1f;border-color:#5e6b2c}
+html.tb-dark .main-content .tb-hero{background:linear-gradient(135deg,#232220,#26281c);border-color:#39372f}
+html.tb-dark .main-content .tb-hero p{color:#b5b0a0}
+html.tb-dark .main-content .tb-hbtn.tb-alt{background:#262522;color:#e2dfd5 !important;border-color:#5e6b2c}
+html.tb-dark .main-content .tb-estrip{background:#262522;border-color:#5a4038}
+html.tb-dark .main-content .tb-estrip a{color:#d8d3c5;border-color:#3a332f}
+html.tb-dark .main-content .tb-estrip a:hover{background:#2b2724}
+html.tb-dark .main-content .tb-banner,html.tb-dark .main-content .tb-callout{background:#2a2c20;border-color:#4b5326;color:#c9c4b4}
+html.tb-dark .main-content table th{background:#262522;color:#e8e4d8}
+html.tb-dark .main-content table td,html.tb-dark .main-content table th{border-color:#39372f}
+html.tb-dark .main-content blockquote{background:#262522;color:#c9c4b4}
+html.tb-dark .main-content .tb-wcard,html.tb-dark .main-content .tb-wsrc{background:#262522;border-color:#39372f;color:#a29d8e}
+html.tb-dark .main-content .tb-whead{background:#2b2a26;color:#e8e4d8}
+html.tb-dark .main-content .tb-wcol.tb-owner{background:#2b2824}
+html.tb-dark .main-content .tb-wcol.tb-assoc{background:#2a2d20}
+html.tb-dark .main-content .tb-wcol p{color:#d8d3c5}
+html.tb-dark .tb-toggle{background:#262522;border-color:#39372f;color:#c9c4b4}
+html.tb-dark .tb-foot{border-color:#39372f;color:#8a8577}
+html.tb-dark .main-content img{opacity:.92}
